@@ -70,7 +70,9 @@ Impact
 
 The dashboard provided the Retention Manager with powerful insights and actionable recommendations that improved customer retention efforts and reduced churn. Key outcomes include:
 
-Improved Insights: A clear, visual summary of KPIs for faster decision-making.
+Improved Insights: 
+
+A clear, visual summary of KPIs for faster decision-making.
 Strategic Focus: Targeted action areas, particularly in Fiber Optics Internet and Online Backup services.
 Proactive Retention: Led to the implementation of targeted campaigns and programs to curb churn.
 Ongoing Monitoring: Established a framework for continuously monitoring customer behavior and updating strategies accordingly.
